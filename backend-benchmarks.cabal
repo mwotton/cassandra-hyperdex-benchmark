@@ -28,3 +28,8 @@ executable backend-benchmarks
                        , deepseq
                        , cassy
                        , process
+                       , time
+                       , pipes-aeson
+                       , pipes
+                       , transformers
+                       , direct-sqlite
